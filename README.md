@@ -2,7 +2,7 @@
 
 ## 👤 Profile
 - MCA Graduate  
-- Skilled in Python, Django, SQL, HTML, CSS  
+- Skilled in Python, Django, MYSQL, HTML, CSS  
 - Interested in ERP Application Support and Data Analysis  
 
 ---
